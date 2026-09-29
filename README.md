@@ -1,4 +1,5 @@
 # Scientific calorie calculator
+THIS IS MY FINAL PROJECT FOR CS50P HARVARD COURSE!
 #### Video Demo:  https://youtu.be/bHTOdpZcZfo
 #### Description:
 
