@@ -1,5 +1,5 @@
 # Scientific calorie calculator
-THIS IS MY FINAL PROJECT FOR CS50P HARVARD COURSE!
+**CS50P Final Project** — Harvard University's Introduction to Programming with Python
 #### Video Demo:  https://youtu.be/bHTOdpZcZfo
 #### Description:
 
